@@ -46,12 +46,14 @@ p {
 
 .top-cloud {
   position: absolute;
-  left: 850px;
+  right: 300px;
+  top: 40px;
 }
 
 .bottom-cloud {
   position: absolute;
-  left: 28%;
+  left: 250px;
+  bottom: 300px;
 }
 
 table {
