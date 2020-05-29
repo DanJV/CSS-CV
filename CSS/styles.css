@@ -46,7 +46,7 @@ p {
 
 .top-cloud {
   position: absolute;
-  left: 61%
+  left: 850px;
 }
 
 .bottom-cloud {
@@ -70,17 +70,19 @@ ul {
   color: midnightblue;
   list-style-type: square;
   list-style-position: inside;
+  text-align: center;
   position: relative;
-  left: 29%;
-}
+
+  }
 
 ol {
   color: midnightblue;
   list-style-position: inside;
   position: relative;
-  left: 29%;
 }
 
 li {
   text-align: justify;
+  position: relative;
+  left: 30%
 }
